@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 36px;
+    }
+    
+    .hero-image-container {
+        margin-top: 40px;
+    }
+    
+    .btn-contact {
+        margin-left: 0;
+        margin-top: 16px;
+    }
+}
+
